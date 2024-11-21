@@ -1,0 +1,10 @@
+1) Include combo boxes
+2)Added A new view  (claim submitted) for the Program coordinator.
+3)Create LecturerClaimController and add actions for GET and set.
+4)Added a view for the Academic Manager
+5)Add validation logic and basic styling to the form.
+6)Handle form submission and add ClaimSuccess page.
+7) Added a new view (Claim accepted) for Academic manager.
+8) Added a new view (HR View) for HR to view invoice of the claims.
+9)Implemented a calculated (Total) action where it calculates the hours worked and the hourly rate.
+10)All the botton work ad well connected to the next view. 
